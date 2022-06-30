@@ -1,2 +1,2 @@
 # cdn
-Here Is My Static Files
+My static files
